@@ -1,0 +1,27 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+bin/
+build/
+dist/
+node_modules/
+venv/
+__pycache__/
+archive/
+plots/
+data/libraries/
+data/bb_usage/
+
+# Files
+.DS_Store
+.env
+.env.*
+.idea/
+*.log
+*.pyc
+*.swp
+*.swo
+*.vscode/
