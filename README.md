@@ -12,7 +12,7 @@ The repository is structured as follows:
 
 * **data**: Contains all building blocks used in the study. "Tested" building blocks were used to train the models, "library" building blocks were used to build a library of 76,906,368 complexes. 
 
-* **data/libraries**: Contains the library of 76,906,368 complexes with the corresponding antibacterial activity predictions from the SVM and MLP models. Since these files are too large for GitHub, they need to be generated locally or downloaded from [here](zenodo url).
+* **data/libraries**: Contains the library of 76,906,368 complexes with the corresponding antibacterial activity predictions from the SVM and MLP models. Since these files are too large for GitHub, they need to be generated locally or downloaded from [here](https://doi.org/10.5281/zenodo.8413660). Mind that this directory is not present in the repository. 
 
 * **models**: Contains all the trained models.
 
